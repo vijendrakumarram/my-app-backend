@@ -1,0 +1,18 @@
+{
+  "name": "my-backend-server",
+  "version": "1.0.0",
+  "description": "Express backend for React app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Vijendra Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0"
+  }
+}
